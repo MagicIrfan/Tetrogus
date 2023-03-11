@@ -1,6 +1,6 @@
 # Tetrogus
 
-Tetrogus est un Tetris like développé en JavaScript Vantilla en utilisant une architecture MVC (modèle, vue, contrôleur)
+Tetrogus est un Tetris like développé en JavaScript Vanilla en utilisant une architecture MVC (modèle, vue, contrôleur)
 
 # Fonctionnalités
 - Mode solo
